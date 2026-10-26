@@ -16,7 +16,13 @@
 
 ## อัปเดต
 
-ปิดหน้าต่างสีดำก่อน แล้วดาวน์โหลดตัวติดตั้งจากลิงก์เดิมและติดตั้งทับ ข้อมูลผู้ป่วยในโฟลเดอร์ `data` และไฟล์สำรองในโฟลเดอร์ `backups` จะยังอยู่ครบ
+โปรแกรมตรวจหาเวอร์ชันใหม่เองเมื่อเปิดและทุกหกชั่วโมง แล้วดาวน์โหลดไว้เบื้องหลัง เมื่อพร้อม หน้าวันนี้จะขึ้นว่า "เวอร์ชัน … พร้อมแล้ว"
+
+- ตอนเลิกงาน กด **ปิด** ที่ด้านบนของหน้าจอบนคอมพิวเตอร์สาขา แล้วเลือก **อัปเดตแล้วปิด** เปิดหน้าต่างสีดำไว้ประมาณหนึ่งนาที หน้าต่างจะปิดเองเมื่อติดตั้งเสร็จ
+- ถ้าปิดหน้าต่างสีดำด้วยปุ่ม X ครั้งต่อไปที่เปิดโปรแกรมจะถามก่อนแล้วติดตั้งเองภายใน 15 วินาที
+- ติดตั้งด้วยมือ: ปิดโปรแกรมก่อน แล้วดับเบิลคลิก `update.bat` ในโฟลเดอร์ `C:\Apex PMS`
+
+ข้อมูลผู้ป่วยในโฟลเดอร์ `data` และไฟล์สำรองในโฟลเดอร์ `backups` ไม่ถูกแตะต้อง
 
 ## ถอนการติดตั้ง
 
@@ -42,10 +48,16 @@ Set up the tablets under **Settings › Devices › Connect** and scan the QR wi
 
 **Update**
 
-Close the black window, then download the installer from the same link and run it over the old one. The patient data in the `data` folder and the backups in the `backups` folder stay as they are.
+The program looks for a new version when it starts and every six hours and downloads it in the background. When it's ready, Today says "Version … is ready".
+
+- At the end of the day, press **Close** at the top of the screen on the branch PC and choose **Update and close**. Keep the black window open for about a minute; it closes by itself when the update is in.
+- If the black window was closed with the X, the next start asks first and installs by itself after 15 seconds.
+- By hand: close the program, then double-click `update.bat` in `C:\Apex PMS`.
+
+The patient data in the `data` folder and the backups in the `backups` folder are never touched.
 
 **Uninstall**
 
 Start › Apex PMS › Uninstall Apex PMS. The patient data and backups stay in `C:\Apex PMS\data` and `C:\Apex PMS\backups` until you delete them.
 
-Version 1.0.0 · SHA-256 `6a6ca03ad7df701b2cdc9a5f174d0f79a074d099c124d6398895e0e574d6d789`
+Version 1.1.0 · SHA-256 `a1ca7edd41c7ebd8465fd54ea0498ae103ea5764404c4eeb66c3a6fd5d39c043`

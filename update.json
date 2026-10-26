@@ -1,0 +1,12 @@
+{
+ "version": "1.1.0",
+ "date": "2026-10-26",
+ "file": "Apex-PMS-Update-1.1.0.zip",
+ "size": 27737256,
+ "sha256": "41540bf780f2498c297caca496a72f30cdd8e822c1fc4d845b4c4c762b06ddcb",
+ "notes": {
+  "en": "Updates now install by themselves: the program downloads a new version in the background and installs it when it's closed for the day with Close. update.bat in the program folder installs by hand.",
+  "th": "อัปเดตติดตั้งเองได้แล้ว โปรแกรมดาวน์โหลดเวอร์ชันใหม่ไว้เบื้องหลัง และติดตั้งเมื่อปิดโปรแกรมตอนเลิกงานด้วยปุ่ม ปิด ส่วน update.bat ในโฟลเดอร์โปรแกรมใช้ติดตั้งด้วยมือ"
+ },
+ "signature": "RsD3TGt+/pUBZh3E4+smn7h9MFhl30yjlcMcWzH2fNU0A3LkrnVfhQghAe7sdfcSEOqgF6s+ndIAmpup0jGsDQ=="
+}
