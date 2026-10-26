@@ -1,12 +1,12 @@
 {
- "version": "1.1.0",
- "date": "2026-10-26",
- "file": "Apex-PMS-Update-1.1.0.zip",
- "size": 27737256,
- "sha256": "41540bf780f2498c297caca496a72f30cdd8e822c1fc4d845b4c4c762b06ddcb",
+ "version": "1.2.0",
+ "date": "2026-10-27",
+ "file": "Apex-PMS-Update-1.2.0.zip",
+ "size": 27748709,
+ "sha256": "7118ff4e9feb088fac8f45b96d5d6041202bc9fb85c92ba200d1b2f757af91e4",
  "notes": {
-  "en": "Updates now install by themselves: the program downloads a new version in the background and installs it when it's closed for the day with Close. update.bat in the program folder installs by hand.",
-  "th": "อัปเดตติดตั้งเองได้แล้ว โปรแกรมดาวน์โหลดเวอร์ชันใหม่ไว้เบื้องหลัง และติดตั้งเมื่อปิดโปรแกรมตอนเลิกงานด้วยปุ่ม ปิด ส่วน update.bat ในโฟลเดอร์โปรแกรมใช้ติดตั้งด้วยมือ"
+  "en": "Patient card for the phone with Share; Nurse role and the admin's rules for each role; Apex's surgical treatments; chart: wheel zoom, drag to move or pan, straight filler arrows, Clear all, last visit's photo lined up on the face, a 45° chart saved with only its photo; Back from Show patient on a laptop; 3D head, dictation and translator removed.",
+  "th": "บัตรผู้ป่วยในโทรศัพท์พร้อมปุ่มแชร์ ตำแหน่งพยาบาลและการตั้งสิทธิ์ของแต่ละตำแหน่ง หัตถการศัลยกรรมของ Apex แผนภาพ: ซูมด้วยล้อเมาส์ ลากเพื่อย้ายหรือเลื่อน ลูกศรฟิลเลอร์เป็นเส้นตรง ปุ่มล้างทั้งหมด รูปครั้งก่อนจัดให้ตรงกับใบหน้า บันทึกแผนภาพ 45° ได้แม้ยังไม่มีจุด ปุ่มกลับจากหน้าผู้ป่วยบนแล็ปท็อป และนำศีรษะ 3 มิติ การบันทึกด้วยเสียง และโปรแกรมแปลภาษาออก"
  },
- "signature": "RsD3TGt+/pUBZh3E4+smn7h9MFhl30yjlcMcWzH2fNU0A3LkrnVfhQghAe7sdfcSEOqgF6s+ndIAmpup0jGsDQ=="
+ "signature": "6yxp3bGhFDe/Qbm608JCfLSeG3ZWP+Vgf8X6XVTNSXxmoZMOgfKyNw8SO8Me5Bf1p8ZG45LX+LTbQ7N+a5p0BQ=="
 }
