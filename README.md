@@ -2,7 +2,7 @@
 
 ระบบจัดการผู้ป่วยของ Apex Medical Center สำหรับคอมพิวเตอร์สาขา (Windows 10 หรือ 11 แบบ 64 บิต) แท็บเล็ตและแล็ปท็อปของแพทย์เชื่อมต่อเข้าคอมพิวเตอร์เครื่องนี้ผ่าน wifi ของสาขา
 
-**[ดาวน์โหลดตัวติดตั้ง (Apex-PMS-Setup.exe)](https://github.com/shinigami1235-creator/apex-patient-management-system/releases/latest/download/Apex-PMS-Setup.exe)**
+**[ดาวน์โหลดตัวติดตั้ง (Apex-PMS-Setup.exe)](https://github.com/shinigami1235-creator/apex-patient-management-system/raw/main/Apex-PMS-Setup.exe)**
 
 ## ติดตั้ง
 
@@ -28,7 +28,7 @@ Start › Apex PMS › Uninstall Apex PMS ข้อมูลผู้ป่ว�
 
 The Apex Medical Center patient management system, for the branch PC (Windows 10 or 11, 64-bit). Doctors' tablets and laptops connect to this PC over the branch wifi.
 
-**[Download the installer (Apex-PMS-Setup.exe)](https://github.com/shinigami1235-creator/apex-patient-management-system/releases/latest/download/Apex-PMS-Setup.exe)**
+**[Download the installer (Apex-PMS-Setup.exe)](https://github.com/shinigami1235-creator/apex-patient-management-system/raw/main/Apex-PMS-Setup.exe)**
 
 **Install**
 
@@ -47,3 +47,5 @@ Close the black window, then download the installer from the same link and run i
 **Uninstall**
 
 Start › Apex PMS › Uninstall Apex PMS. The patient data and backups stay in `C:\Apex PMS\data` and `C:\Apex PMS\backups` until you delete them.
+
+Version 1.0.0 · SHA-256 `6a6ca03ad7df701b2cdc9a5f174d0f79a074d099c124d6398895e0e574d6d789`
