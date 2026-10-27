@@ -1,12 +1,12 @@
 {
- "version": "1.2.0",
+ "version": "1.2.1",
  "date": "2026-10-27",
- "file": "Apex-PMS-Update-1.2.0.zip",
- "size": 27748709,
- "sha256": "7118ff4e9feb088fac8f45b96d5d6041202bc9fb85c92ba200d1b2f757af91e4",
+ "file": "Apex-PMS-Update-1.2.1.zip",
+ "size": 27750280,
+ "sha256": "48ee2e22e2d710416ee0442d9754154e68adef8573cf7371cb5e2f2bc0e9a88e",
  "notes": {
-  "en": "Patient card for the phone with Share; Nurse role and the admin's rules for each role; Apex's surgical treatments; chart: wheel zoom, drag to move or pan, straight filler arrows, Clear all, last visit's photo lined up on the face, a 45° chart saved with only its photo; Back from Show patient on a laptop; 3D head, dictation and translator removed.",
-  "th": "บัตรผู้ป่วยในโทรศัพท์พร้อมปุ่มแชร์ ตำแหน่งพยาบาลและการตั้งสิทธิ์ของแต่ละตำแหน่ง หัตถการศัลยกรรมของ Apex แผนภาพ: ซูมด้วยล้อเมาส์ ลากเพื่อย้ายหรือเลื่อน ลูกศรฟิลเลอร์เป็นเส้นตรง ปุ่มล้างทั้งหมด รูปครั้งก่อนจัดให้ตรงกับใบหน้า บันทึกแผนภาพ 45° ได้แม้ยังไม่มีจุด ปุ่มกลับจากหน้าผู้ป่วยบนแล็ปท็อป และนำศีรษะ 3 มิติ การบันทึกด้วยเสียง และโปรแกรมแปลภาษาออก"
+  "en": "Forgotten PINs: a hidden master key on the branch PC sets a new PIN for anyone, the admin included.",
+  "th": "ลืมรหัส PIN: รหัสหลักที่ซ่อนอยู่บนคอมพิวเตอร์สาขาใช้ตั้งรหัส PIN ใหม่ให้ทุกคนได้ รวมถึงผู้ดูแลระบบ"
  },
- "signature": "6yxp3bGhFDe/Qbm608JCfLSeG3ZWP+Vgf8X6XVTNSXxmoZMOgfKyNw8SO8Me5Bf1p8ZG45LX+LTbQ7N+a5p0BQ=="
+ "signature": "nJo/rbil6epgLhjj/CQGMyME3f47cpxGVjB1SEp2SQ5XTVqUdKzDXh27fPkgcK98thma2358FtTXZQdsE/18Aw=="
 }

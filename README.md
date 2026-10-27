@@ -60,4 +60,4 @@ The patient data in the `data` folder and the backups in the `backups` folder ar
 
 Start › Apex PMS › Uninstall Apex PMS. The patient data and backups stay in `C:\Apex PMS\data` and `C:\Apex PMS\backups` until you delete them.
 
-Version 1.2.0 · SHA-256 `780b31526d7025e970ba4e6315777bdcbd10ae2a913338c1c13ff81eb32cf10a`
+Version 1.2.1 · SHA-256 `b390923a8064f4101c345f60e30023838c604325d0cb95e43a2508300fad16c4`
