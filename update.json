@@ -1,12 +1,12 @@
 {
- "version": "1.5.0",
+ "version": "1.5.1",
  "date": "2026-10-29",
- "file": "Apex-PMS-Update-1.5.0.zip",
- "size": 23252393,
- "sha256": "4752f298b33680ac95ccc7470452410452ad8c110ec08ca82fde3798582aa48e",
+ "file": "Apex-PMS-Update-1.5.1.zip",
+ "size": 23392351,
+ "sha256": "44c66ab2f05c6eafc819ce01d1d8d0acf8400efaa7562297e79362c48d0713ee",
  "notes": {
-  "en": "The chart now covers the body as well as the face: neck and chest, arms, abdomen and waist, back and shoulders, buttocks and thighs, lower legs and full body, each on its own drawing. Lean view is the default and shows only the face and the areas this visit uses. Each area folds and has its own notes. Full view shows everything.",
-  "th": "แผนภาพครอบคลุมร่างกายนอกจากใบหน้าแล้ว ได้แก่ คอและหน้าอก แขน หน้าท้องและเอว หลังและไหล่ สะโพกและต้นขา ขาส่วนล่าง และทั้งตัว แต่ละส่วนมีภาพวาดของตัวเอง แบบย่อเป็นค่าเริ่มต้น แสดงเฉพาะใบหน้าและบริเวณที่ใช้ในครั้งนี้ แต่ละบริเวณพับเก็บได้และมีบันทึกของตัวเอง แบบเต็มแสดงทั้งหมด"
+  "en": "The body charts now use proper body sketches: a woman or a man to match the patient, from the front and the back. The abdomen and the buttocks also have a side view.",
+  "th": "แผนภาพร่างกายเปลี่ยนเป็นภาพสเก็ตช์ร่างกายจริง เป็นผู้หญิงหรือผู้ชายตามเพศของผู้ป่วย ทั้งด้านหน้าและด้านหลัง หน้าท้องและสะโพกมีมุมด้านข้างเพิ่มด้วย"
  },
- "signature": "bbW185l6TRoZ/Wq4Mn1wRTNgFIn0VOawNtpZz8i4jNNLULgOy480HNem9oLaA1FvSalPFYcKlEcOXnwcWhMcBQ=="
+ "signature": "J6gkfzPtaAFtfHnbwIwQuBB2oX0OQI1YfeyI+ZBTyH7dZK4Y1eMOgqaVqn1i73d6nN5Oz6qxHOjrS7UeG+9KAQ=="
 }
