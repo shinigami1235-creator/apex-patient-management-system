@@ -62,4 +62,4 @@ Start › Apex PMS › Uninstall Apex PMS. The patient data and backups stay in 
 
 The models folder holds the files the before and after picture tool downloads onto the branch PC the first time they're needed.
 
-Version 1.4.0 · SHA-256 `2c8f9a40445494958623a72401275ea4d9ea40da76419b776c786730c500b64c`
+Version 1.5.0 · SHA-256 `cbcc66317012c6d5faa897f0d6b60ba929ac5fc13b1d1b4c68749c30d49f3a61`
