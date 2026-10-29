@@ -1,12 +1,12 @@
 {
- "version": "1.5.1",
+ "version": "1.5.2",
  "date": "2026-10-29",
- "file": "Apex-PMS-Update-1.5.1.zip",
- "size": 23392351,
- "sha256": "44c66ab2f05c6eafc819ce01d1d8d0acf8400efaa7562297e79362c48d0713ee",
+ "file": "Apex-PMS-Update-1.5.2.zip",
+ "size": 23428970,
+ "sha256": "db1c8de7a4930d1e620e1e9655f98edab14a564d432e7d694c2ffb4b7f677063",
  "notes": {
-  "en": "The body charts now use proper body sketches: a woman or a man to match the patient, from the front and the back. The abdomen and the buttocks also have a side view.",
-  "th": "แผนภาพร่างกายเปลี่ยนเป็นภาพสเก็ตช์ร่างกายจริง เป็นผู้หญิงหรือผู้ชายตามเพศของผู้ป่วย ทั้งด้านหน้าและด้านหลัง หน้าท้องและสะโพกมีมุมด้านข้างเพิ่มด้วย"
+  "en": "The arms area now shows each upper arm held straight out, so the triceps lie flat on the chart. There is one view for the right arm and one for the left.",
+  "th": "บริเวณแขนแสดงต้นแขนแต่ละข้างในท่ากางแขนตรง ทำให้เห็นบริเวณหลังแขนเต็มบนแผนภาพ มีมุมแขนขวาและแขนซ้ายแยกกัน"
  },
- "signature": "J6gkfzPtaAFtfHnbwIwQuBB2oX0OQI1YfeyI+ZBTyH7dZK4Y1eMOgqaVqn1i73d6nN5Oz6qxHOjrS7UeG+9KAQ=="
+ "signature": "YEM8pbUonlH7tCFbz0s8HFDT1Ao9lxJZoJgpEbZBdiseB9rdWtk8YXn3oi2GH8MUxU1rtHWRcjJy88BGqjpCCQ=="
 }
