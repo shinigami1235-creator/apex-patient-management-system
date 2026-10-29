@@ -1,12 +1,12 @@
 {
- "version": "1.5.2",
+ "version": "1.5.3",
  "date": "2026-10-29",
- "file": "Apex-PMS-Update-1.5.2.zip",
- "size": 23428970,
- "sha256": "db1c8de7a4930d1e620e1e9655f98edab14a564d432e7d694c2ffb4b7f677063",
+ "file": "Apex-PMS-Update-1.5.3.zip",
+ "size": 23429216,
+ "sha256": "b7f98909766af7a17cda435490b880068f9f54c7c70bc7bf77992742618c5d70",
  "notes": {
-  "en": "The arms area now shows each upper arm held straight out, so the triceps lie flat on the chart. There is one view for the right arm and one for the left.",
-  "th": "บริเวณแขนแสดงต้นแขนแต่ละข้างในท่ากางแขนตรง ทำให้เห็นบริเวณหลังแขนเต็มบนแผนภาพ มีมุมแขนขวาและแขนซ้ายแยกกัน"
+  "en": "Thighs are now an area of their own, with front, back and side views, to match the liposuction list. The buttocks area is now Hips and buttocks.",
+  "th": "ต้นขาแยกเป็นบริเวณของตัวเอง มีมุมด้านหน้า ด้านหลัง และด้านข้าง ให้ตรงกับรายการดูดไขมัน บริเวณก้นเปลี่ยนชื่อเป็นสะโพกและก้น"
  },
- "signature": "YEM8pbUonlH7tCFbz0s8HFDT1Ao9lxJZoJgpEbZBdiseB9rdWtk8YXn3oi2GH8MUxU1rtHWRcjJy88BGqjpCCQ=="
+ "signature": "UlVEAZUux7rTo2PZS8fGWxbkvuLS3hpiMC7mBoKCFUGBVcg/kX5Wd7OEHJDD3ARXQRyEstSVPCZktQEiNs+CCg=="
 }
