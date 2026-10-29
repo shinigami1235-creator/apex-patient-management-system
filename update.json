@@ -1,12 +1,12 @@
 {
- "version": "1.5.3",
+ "version": "1.5.4",
  "date": "2026-10-29",
- "file": "Apex-PMS-Update-1.5.3.zip",
- "size": 23429216,
- "sha256": "b7f98909766af7a17cda435490b880068f9f54c7c70bc7bf77992742618c5d70",
+ "file": "Apex-PMS-Update-1.5.4.zip",
+ "size": 23429752,
+ "sha256": "50c37b68aaf3d7223ad0b935de0b0f88a554f5100befba52c3d720cc696ee6cc",
  "notes": {
-  "en": "Thighs are now an area of their own, with front, back and side views, to match the liposuction list. The buttocks area is now Hips and buttocks.",
-  "th": "ต้นขาแยกเป็นบริเวณของตัวเอง มีมุมด้านหน้า ด้านหลัง และด้านข้าง ให้ตรงกับรายการดูดไขมัน บริเวณก้นเปลี่ยนชื่อเป็นสะโพกและก้น"
+  "en": "Only a doctor can reopen a signed visit, now checked by the branch PC as well as on screen. A signed consent form is kept exactly as signed, with a fingerprint that shows any later change.",
+  "th": "เฉพาะแพทย์เท่านั้นที่เปิดการเข้ารับบริการที่ลงนามแล้วได้ โดยเครื่องหลักของสาขาตรวจสอบด้วย เอกสารยินยอมที่ลงนามแล้วจะเก็บไว้ตามที่ลงนามทุกประการ พร้อมลายนิ้วมือดิจิทัลที่แสดงหากมีการแก้ไขภายหลัง"
  },
- "signature": "UlVEAZUux7rTo2PZS8fGWxbkvuLS3hpiMC7mBoKCFUGBVcg/kX5Wd7OEHJDD3ARXQRyEstSVPCZktQEiNs+CCg=="
+ "signature": "PkUP+YhUxFjkBcOudm6SySYtjApXNkFdxh5QlSBWauA9zDkc/zWZQ6OlTxRtfYErfOCI6g5vJWr13d4/P/A7Bg=="
 }
