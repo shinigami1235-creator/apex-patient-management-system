@@ -1,12 +1,12 @@
 {
- "version": "1.3.0",
- "date": "2026-10-28",
- "file": "Apex-PMS-Update-1.3.0.zip",
- "size": 27767649,
- "sha256": "c442bb27bb8213e2cbe6913b6c6a6a7d1029313d693ab031485e69656a89b7f5",
+ "version": "1.4.0",
+ "date": "2026-10-29",
+ "file": "Apex-PMS-Update-1.4.0.zip",
+ "size": 23243028,
+ "sha256": "d658b723243f0e483e2ea023e8081965c4ed77ebbe7be080250e80b0b6e7cfc4",
  "notes": {
-  "en": "Two-step sign-in for the admin, a sign-in log, cloud storage for photos and nightly backups (off until set up), and every record stamped with its branch.",
-  "th": "การยืนยันสองขั้นตอนสำหรับผู้ดูแลระบบ บันทึกการลงชื่อเข้าใช้ พื้นที่เก็บรูปและข้อมูลสำรองทุกคืนบนคลาวด์ (ปิดอยู่จนกว่าจะตั้งค่า) และทุกข้อมูลระบุสาขาที่บันทึก"
+  "en": "The before and after picture tool updated to the latest Proofline: line up by face and body points, eye covers that follow each eye, the closer match, a sequence video and settings in tap-to-open sections.",
+  "th": "เครื่องมือภาพเปรียบเทียบก่อน-หลังอัปเดตเป็น Proofline รุ่นล่าสุด: จัดแนวด้วยจุดบนใบหน้าและร่างกาย แถบปิดตาที่ตามดวงตาแต่ละข้าง การจับคู่แบบละเอียด วิดีโอเรียงลำดับ และการตั้งค่าแบบแตะเพื่อเปิด"
  },
- "signature": "d9Jriq64jc21JoOlQIYINlab3FjIzz7jqK8ipQwvjA6RxrsY5fmsR/5mq82GJCq/yka78i6oLJAJGgZ84ux7Cw=="
+ "signature": "XLdeO7myHzN/ASwZn3dBCmTDjG48QWq62QSl7gc+sFav2mFeOFwuYzIvLgYGv97HqKt2XGis2sy/35gVXBfzCw=="
 }
